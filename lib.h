@@ -15,7 +15,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world" << endl;
+    cout << "Hello world -- offline" << endl;
 
     return 0;
 }
